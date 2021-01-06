@@ -1,4 +1,4 @@
-# UnSupervised-Learning--IRIS-DataSet
+# UnSupervised Learning Algorithm Demonstration
 This Repository Demonstrates use of Unsupervised Learning with Some Statistical testing. <br>
 <b> Data Link - </b> https://bit.ly/3kXTdox<br>
 <b> Algorithms Used - </b> KMeans, Hierarchical Clustering and DBScan.<br>
